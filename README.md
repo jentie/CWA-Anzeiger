@@ -10,6 +10,6 @@ Software: Bluetooth Low Energy (BLE) Scanner mit Filterung nach der Identifikati
 Corona-Warn-App: https://www.bundesregierung.de/breg-de/themen/corona-warn-app
 (auf github: https://github.com/corona-warn-app)
 
-
-<img src="https://github.com/corona-warn-app/cwa-documentation/blob/master/images/CWA_title.png" alt="Corona-Warn-App-Logo" width="200"/>
-
+<p align="center">
+  <img src="https://github.com/corona-warn-app/cwa-documentation/blob/master/images/CWA_title.png" alt="Corona-Warn-App-Logo" width="200"/>
+</p>
