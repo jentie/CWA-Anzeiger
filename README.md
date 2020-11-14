@@ -1,7 +1,7 @@
 # CWA-Anzeiger
 Corona-Warn-App Anzeiger - zeigt Corona-Warn-Apps in der Umgebung an
 
-![CWA-Anzeiger in Betrieb](https://github.com/jentie/traffic-monitor/blob/master/fotos/CWA-Betrieb.jpg)
+![CWA-Anzeiger in Betrieb](https://github.com/jentie/CWA-Anzeiger/blob/main/fotos/CWA-Betrieb.jpg)
 
 Hardware: ESP32-Controller, ggf. mit LED-Display TM1637 
 
