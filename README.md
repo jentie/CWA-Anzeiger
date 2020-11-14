@@ -11,4 +11,5 @@ Corona-Warn-App: https://www.bundesregierung.de/breg-de/themen/corona-warn-app
 (auf github: https://github.com/corona-warn-app)
 
 
-![Corona-Warn-App-Logo](https://github.com/corona-warn-app/cwa-documentation/blob/master/images/CWA_title.png)
+<img src="https://github.com/corona-warn-app/cwa-documentation/blob/master/images/CWA_title.png" alt="Corona-Warn-App-Logo" width="200"/>
+
