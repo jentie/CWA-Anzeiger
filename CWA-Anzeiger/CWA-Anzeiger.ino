@@ -16,9 +16,9 @@
 */
 
 #include <BLEDevice.h>            // Teil des "esp32"-Pakets von Espressif Systems
-// siehe auch https://github.com/espressif/arduino-esp32
+                                  // siehe auch https://github.com/espressif/arduino-esp32
 #include <TM1637Display.h>        // Arduino-Bibliothek "TM1637" (von Avishay)
-// siehe auch https://github.com/avishorp/TM1637
+                                  // siehe auch https://github.com/avishorp/TM1637
 
 #define LEDint 2                  // LED auf dem ESP-Controller: CWA-Indikator
 #define LEDext 13                 // externe LED: zusätzliche CWA melden
